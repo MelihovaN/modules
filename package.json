@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "modules",
+  "description": "### Инициализация node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelihovaN/modules.git"
+  },
+  "author": "Natalia melihova.qa@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelihovaN/modules/issues"
+  },
+  "homepage": "https://github.com/MelihovaN/modules#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
