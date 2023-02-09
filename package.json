@@ -1,19 +1,28 @@
 {
   "dependencies": {
+    "@types/jest": "^29.4.0",
     "colors": "^1.4.0"
   },
   "name": "modules",
-  "description": "### Инициализация node.js",
+  "description": "first protgect with jest",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MelihovaN/modules.git"
   },
-  "author": "Natalia melihova.qa@gmail.com",
+  "author": "Natalia <melihova.qa@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MelihovaN/modules/issues"
