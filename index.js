@@ -6,4 +6,3 @@ const calculateBonus = (a, b) => {
   return bonus;
 };
 module.exports = calculateBonus;
-//module.exports = sum;

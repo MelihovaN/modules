@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/MelihovaN/modules#readme",
   "devDependencies": {
+    "babel-plugin-istanbul": "^6.1.1",
     "jest": "^29.4.2"
   }
 }
